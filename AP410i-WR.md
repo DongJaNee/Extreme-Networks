@@ -26,3 +26,13 @@
 - 새 SSID 생성 또는 기존 SSID 편집
 - 네트워크 이름, 보안 유형, 암호 등 설정
 - 변경사항 저장 및 적용
+
+---
+
+## 1. VLAN 설정하는 방법 
+- WING에 접속하여 Configuration -> Devices -> Sytem Profile -> default-ap410 -> Virtual Interfaces 에서 추가 하면된다.
+
+![image](https://github.com/user-attachments/assets/5b16d561-4e81-45a9-9d63-6cccf1df5d06)
+
+
+![image](https://github.com/user-attachments/assets/0cb8d9ec-15e6-4a17-98b9-8bbda0655799)
